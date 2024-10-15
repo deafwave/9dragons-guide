@@ -17,4 +17,5 @@ Guides for 9Dragons [D9Game's](https://d9gitalgames.com/landing.php) Server (mod
 - PvP
   - Looking for guide creators
 
-## Contributors
+## Maintainers
+- Chandler (IGN: `Deafwave`)
