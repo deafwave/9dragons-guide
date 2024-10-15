@@ -1,5 +1,5 @@
 # 9dragons-guide
-Guides for 9Dragons D9Game's Server (modified RedFox Nine Dragons Awaken)
+Guides for 9Dragons [D9Game's](https://d9gitalgames.com/landing.php) Server (modified RedFox Nine Dragons Awaken)
 
 ## Table of Contents
 
