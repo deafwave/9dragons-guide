@@ -14,6 +14,8 @@ Guides for 9Dragons [D9Game's](https://d9gitalgames.com/landing.php) Server (mod
   - Items
     - [Rainbow Banner](docs/PvE/items/rainbow-banner.md)
     - [PvE Points](docs/PvE/pve-points.md)
+  - Quests
+    - [RTD](docs/PvE/quests/rtd.md)
 - PvP
   - Looking for guide creators
 
