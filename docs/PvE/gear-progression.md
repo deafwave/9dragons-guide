@@ -10,13 +10,18 @@
 3. **Golden Coin Set** [Golden Coin Mansion] __CS10(130)?__
 
 ## Weapon
-1. **Young Dragon Weapon** [Bamboo] (RTE Quest - Kill Zhang Zao) *Options Exchange for Leech*
-2. **Jade Dragon Weapon** [ZZ/SZ] (RTD Quest) *Options Exchange for Leech*
-3. **Superior Death Valley Weapon** [Superior Choice of Fate] (Drop - Superior Crying for Death Journal) __CS10(130)__
-4. **Superior Valley of Hell Weapon** [Superior Valley of Hell] (Drop - Valley of Hell Hellicite & Hell Jades)
-5. **Reaper Double Dragon Brave Majesty Weapon** __GL8(140)__ ||F11 > Create > Hangzhou/Nanchang > Reaper Double Dragon Weapon ||
+1. **Young Dragon Blue Stone Weapon** [Bamboo] __LS1(1)__ *Options Exchange for Leech*
+  - RTE Quest - Kill Zhang Zao
+2. **Jade Dragon Red Steel Weapon** [ZZ/SZ] __LS1(1)__ *Options Exchange for Leech*
+  - RTD Quest
+3. **Superior Death Valley Weapon** __CS10(130)__
+  -  1 Superior Crying for Death Journal [Superior Choice of Fate]
+4. **Superior Valley of Hell Weapon** __GL8(140)__
+  - 2 Valley of Hell Hellicite [Superior Valley of Hell]
+  - 5 Red Jade of Hell [?]
+5. **Reaper Double Dragon Brave Majesty Weapon** __H7(175)__ ||F11 > Create > Hangzhou/Nanchang > Reaper Double Dragon Weapon||
   - 20 Reaper Double Dragon Brave Journal [Golden Coin Mansion (GCM) Green Pass] [Silver Coin Mansion (SCM) Red Pass]
-1. (?) Repel/Wave Weapon __HC12(228)__
+1. Repel/Wave Weapon __HC12(228)__
 
 ## Relic
 1. Grey Slate [Bamboo]  (Drop)
