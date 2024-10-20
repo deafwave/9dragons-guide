@@ -14,7 +14,8 @@
 2. **Jade Dragon Weapon** [ZZ/SZ] (RTD Quest) *Options Exchange for Leech*
 3. **Superior Death Valley Weapon** [Superior Choice of Fate] (Drop - Superior Crying for Death Journal) __CS10(130)__
 4. **Superior Valley of Hell Weapon** [Superior Valley of Hell] (Drop - Valley of Hell Hellicite & Hell Jades)
-5. **Double Dragons Weapon** [GCM] (Drop - 20 Journals)
+5. **Reaper Double Dragon Brave Majesty Weapon** __GL8(140)__ ||F11 > Create > Hangzhou/Nanchang > Reaper Double Dragon Weapon ||
+  - 20 Reaper Double Dragon Brave Journal [Golden Coin Mansion (GCM) Green Pass] [Silver Coin Mansion (SCM) Red Pass]
 1. (?) Repel/Wave Weapon __HC12(228)__
 
 ## Relic
