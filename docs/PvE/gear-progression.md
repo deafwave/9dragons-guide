@@ -21,7 +21,6 @@
   - 5 Red Jade of Hell [?]
 5. **Reaper Double Dragon Brave Majesty Weapon** __H7(175)__ ||F11 > Create > Hangzhou/Nanchang > Reaper Double Dragon Weapon||
   - 20 Reaper Double Dragon Brave Journal [Golden Coin Mansion (GCM) Green Pass] [Silver Coin Mansion (SCM) Red Pass]
-1. **Repel/Wave Weapon** __HC12(228)__
 
 ## Relic
 1. Grey Slate [Bamboo]  (Drop)
