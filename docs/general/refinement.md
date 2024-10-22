@@ -1,7 +1,7 @@
 # Refinement
 
 ## Contributors
-@liamsz (Clothes Refinement Bonuses)
+@liamsz (Clothes Refinement        )
 
 ## Weapons
 ### Rates
@@ -38,7 +38,7 @@
 ## Clothes
 ### Rates
 
-| Rank | Chance     | Hat Bonuses                          | Jacket Bonuses                          | Pants Bonuses                          | Wristband Bonuses                      | Boots Bonuses                          |
+| Rank | Chance     | Hat                                  | Jacket                                  | Pants                                  | Wristband                              | Boots                                  |
 |------|------------|--------------------------------------|-----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
 | 1    | 100.00%    | Defense increased by 60              | Defense increased by 200                | Defense increased by 160               | Defense increased by 40                | Defense increased by 100               |
 | 2    | 100.00%    | Attack Rating increases by 200       | Max. Life increases by 4%               | Maximum Life increases by 400          | Critical Dodge Rate increased by 400/1000 | Movement Speed increases by 4%         |
