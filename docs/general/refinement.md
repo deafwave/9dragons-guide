@@ -38,12 +38,12 @@
 ## Clothes
 ### Rates
 
-| Rank | Type 1     |
-|------|------------|
-| 1    | 100.00%    |
-| 2    | 100.00%    |
-| 3    | 92.50%     |
-| 4    | 82.50%     |
+| Rank | Chance     | Hat Bonuses                          | Jacket Bonuses                          | Pants Bonuses                          | Wristband Bonuses                      | Boots Bonuses                          |
+|------|------------|--------------------------------------|-----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+| 1    | 100.00%    | Defense increased by 60              | Defense increased by 200                | Defense increased by 160               | Defense increased by 40                | Defense increased by 100               |
+| 2    | 100.00%    | Attack Rating increases by 200       | Max. Life increases by 4%               | Maximum Life increases by 400          | Critical Dodge Rate increased by 400/1000 | Movement Speed increases by 4%         |
+| 3    | 92.50%     | Physical Damage increases by 4%      | Critical Dodge Rate increased by 400/1000 | Maximum Vital Energy increased by 400  | Strength increased by 4                | Dodge increases by 400                 |
+| 4    | 82.50%     | Attack Speed increases by 0.8%       | Attack Speed increases by 0.8%          | Attack Speed increases by 0.8%         | Attack Speed increases by 0.8%         | Attack Speed increases by 0.8%         |
 | 5    | 72.50%     |
 | 6    | 62.50%     |
 | 7    | 52.50%     |
@@ -56,32 +56,3 @@
 | 14   | 7.50%      |
 | 15   | 3.50%      |
 
-### Hat Bonuses
-1. Defense increased by 60
-1. Attack Rating increases by 200
-1. Physical Damage increases by 4%
-1. Attack Speed increases by 0.8%
-
-### Jacket Bonuses
-1. Defense increased by 200
-1. Max. Life increases by 4%
-1. Critical Dodge Rate increased by 400/1000
-1. Attack Speed increases by 0.8%
-
-### Pants Bonuses
-1. Defense increased by 160
-1. Maximum Life increases by 400
-1. Maximum Vital Energy increased by 400
-1. Attack Speed increases by 0.8%
-
-### Wristband Bonuses
-1. Defense increased by 40
-1. Critical Dodge Rate increased by 400/1000
-1. Strength increased by 4
-1. Attack Speed increases by 0.8%
-
-### Boots Bonuses
-1. Defense increased by 100
-1. Movement Speed increases by 4%
-1. Dodge increases by 400
-1. Attack Speed increases by 0.8%
